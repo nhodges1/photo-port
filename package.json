@@ -1,6 +1,5 @@
 {
-  "homepage": "https://nhodges1.github.io/photo-port/",
-  "name": "photo-port",
+  "homepage": "http://nhodges1.github.io/photo-port",  "name": "photo-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
